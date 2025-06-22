@@ -1,4 +1,5 @@
-## Sales Insights Data Analysis Project
+Sales Insights Data Analysis Project
+==============================================================================================================================================================================
 A dynamic, interactive data visualisation tool build to explore the sales insights and business matrices of a hardware company.
 
 ## Description
